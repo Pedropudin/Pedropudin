@@ -18,10 +18,6 @@ I'm currently undergraduate in Computational Physics by the *Universidade de Sã
 <a href="https://www.instagram.com/pedro_pudin" target="_blank" style="margin: 5px;">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram  />
 </a>
-<a href="https://www.reddit.com/user/pedro_pudin" target="_blank" style="margin: 5px;">
-<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" 
-alt="reddit"/>
-</a>
 
 ## My Languages
 

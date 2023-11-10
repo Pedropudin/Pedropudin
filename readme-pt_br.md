@@ -15,10 +15,6 @@ Atualmente estou fazendo graduação em Física Computacional na *Universidade d
 <a href="https://www.instagram.com/pedro_pudin" target="_blank" style="margin: 5px;">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram  />
 </a>
-<a href="https://www.reddit.com/user/pedro_pudin" target="_blank" style="margin: 5px;">
-<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" 
-alt="reddit"/>
-</a>
 
 ## Minhas Linguagens
 
